@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.example"
+<addon id="plugin.video.danasxxxclips"
 version="2.1.0"
-name="Example Kodi Video Plugin"
-provider-name="Roman_V_M">
+name="Dana´s XXX Clips"
+provider-name="DanaWetPussy">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
 </requires>
@@ -10,9 +10,9 @@ provider-name="Roman_V_M">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Example Kodi Video Plugin</summary>
-  <description lang="en">An example video plugin for Kodi mediacenter.</description>
-  <disclaimer lang="en">Free sample videos are provided by www.vidsplay.com.</disclaimer>
+  <summary lang="en">Dana´s XXX Clips</summary>
+  <description lang="en">Show Full Adult Content on Your XBMC.</description>
+  <disclaimer lang="en">The Content is not Shared by the Addon Creator.</disclaimer>
   <assets>
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
