@@ -19,31 +19,57 @@ _handle = int(sys.argv[1])
 # Here we use a fixed set of properties simply for demonstrating purposes
 # In a "real life" plugin you will need to get info and links to video files/streams
 # from some web-site or online service.
-VIDEOS = {'A Young Girls Desires #5': [{'name': 'Teil 1',
-                       'thumb': 'https://movie4k.org/thumbs/cover-6228425-A-Young-Girls-Desires-5-movie4k-film.jpg',
-                       'video': 'http://streamcloud.eu/mhjo5uyx0tmt/A_Young_Girls_Desires_5_cd1.mp4',
-                       'genre': 'Full'},
-                      {'name': 'Teil 2',
-                       'thumb': 'https://movie4k.org/thumbs/cover-6228425-A-Young-Girls-Desires-5-movie4k-film.jpg',
-                       'video': 'streamcloud.eu/83f1dgpieq2f/A_Young_Girls_Desires_5_cd2.mp4',
+VIDEOS = {'Private Specials 162': [{'name': 'Mirror #1',
+                       'thumb': 'https://s1.imgcloud.pw/2017/03/25/15090c9.jpg',
+                       'video': 'https://oql957.oloadcdn.net/dl/l/LGd5lz1eAFAoi6My/KdlK_vxZvls/Private+Specials+162+Hot+Hitchhikers.mp4',
                        'genre': 'Full'}
                       ],
-          'Lia- Louise Keine Angst vor grossen Schwаnzen': [{'name': 'Teil 1',
-                      'thumb': 'https://movie4k.org/thumbs/cover-8337899-Lia-Louise-Keine-Angst-vor-grossen-Schw-nzen-movie4k-film.jpg',
-                      'video': 'http://95.211.210.75:8777/dsipa7x4m7uzcg3h5fdsvdns24oialfbhxstd65ticypzsk5ytj5lz7vr64a/v.mp4',
-                      'genre': 'Asian'}
+          'Little Girls and Cream Pies': [{'name': 'Mirror #1',
+                      'thumb': 'https://s1.imgcloud.pw/2017/03/23/297475.jpg',
+                      'video': 'https://1fiag0c.oloadcdn.net/dl/l/dBhqsvsqjfB7aWQ1/6pbAv0JWu-g/Litte+Girls+And+Cream+Pies+%28DIRTY+LAUNDRY+PICTURES.mp4',
+                      'genre': 'Full'}
                      ],
-          'Aufgepasst Verdammt Schwanger': [{'name': 'Teil 1',
-                      'thumb': 'https://movie4k.org/thumbs/cover-5960304-Aufgepasst-Verdammt-Schwanger-movie4k-film.jpg',
-                      'video': 'http://streamcloud.eu/sjajnai9rc2x/Aufgepasst_Verdammt_Schwanger.wmv',
-                      'genre': 'Asian'}
+          'Lets Play 2016': [{'name': 'Mirror #1',
+                      'thumb': 'https://s1.imgcloud.pw/2017/03/19/13a4774.jpg',
+                      'video': 'https://1fgm8gz.oloadcdn.net/dl/l/6YlZf8NYQP30QXNi/zNKOKjVsAZ4/Let%E2%80%99s+Play+.mp4',
+                      'genre': 'Full'}
                      ],
-            'Asian Bombshells #2': [{'name': 'Teil 1',
-                      'thumb': 'https://movie4k.org/thumbs/cover-6728083-Asian-Bombshells-2-movie4k-film.jpg',
-                      'video': 'http://streamcloud.eu/zq1oxqqjip23/Asian.Bombshells.2.XXX.DVDRip.mp4',
-                      'genre': 'Asian'}
+            'Mia Khalifa #3': [{'name': 'Mirror #1',
+                      'thumb': 'http://i.imgur.com/b0KiL2j.jpg',
+                      'video': 'https://pgli3e.oloadcdn.net/dl/l/fN4eMAvKeeGGE71T/k2lY4ZljWfA/Mia+Khalifa+3+2017+.mp4',
+                      'genre': 'Full'}
                      ],
-            'Teens Love Huge Cocks 12': [{'name': 'Teil 1',
+          'New Girl in Town #18': [{'name': 'Mirror #1',
+                      'thumb': 'https://img.adultdvdtalk.com/4b3df6e03f03491792',
+                      'video': 'https://oqbkhy.oloadcdn.net/dl/l/6UYNPKu9nccnwboh/wJo6j58vhJY/New+Girl+In+Town+18+.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Big Dick in a Little Chick #2': [{'name': 'Mirror #1',
+                      'thumb': 'http://i1.imagetwist.com/i/14655/6s00i6auaq8g.jpeg/8b69b1bff962.jpeg',
+                      'video': 'https://oql955.oloadcdn.net/dl/l/wzKsrKGOm0ZyrLL7/LWnHmP5PsFI/Big+Dick+In+A+Little+Chick+2+%28Digital+Sin%2FWEBRip%2FSD.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Meet my Ass #9': [{'name': 'Mirror #1',
+                      'thumb': 'http://img66.imagetwist.com/th/14658/o41bbbtbfzes.jpg',
+                      'video': 'https://1fiag16.oloadcdn.net/dl/l/oq-DQrGwhnvYzykT/ioa4KmKEW4w/Meat+My+Ass+9+%28NEWPORT+DISTRIBUTING.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Petite HD Porn #15': [{'name': 'Mirror #1',
+                      'thumb': 'http://img66.imagetwist.com/th/14473/2ojlqo5jmdyr.jpg',
+                      'video': 'https://1fhjm3e.oloadcdn.net/dl/l/zbv5nZHstBlAdt44/6awDt-UY-CE/Petite+HD+Porn+15%3A+One+Track+Mind+%282017%2FNubiles%2FWEBRip%2FSD.mp4',
+                      'genre': 'Full'}
+                     ],
+          'BJ Battles #2': [{'name': 'Mirror #1',
+                      'thumb': 'http://i1.imagetwist.com/th/14682/o7fivf9jbja6.jpg',
+                      'video': 'https://1fhjm34.oloadcdn.net/dl/l/QMWqaidhF9T9JY0i/ahP8rPMR96s/BJ+Battles+2+%282017%2FElegant+Angel%2FDVDRip.mp4',
+                      'genre': 'Full'}
+                     ],
+          'The Key': [{'name': 'Mirror #1',
+                      'thumb': 'http://img28.imagetwist.com/th/14697/z5brs0bbwtj7.jpg',
+                      'video': 'https://1fgm902.oloadcdn.net/dl/l/T7CzbmZP0tRLjG8H/ZRq1cfpyGAk/The+Key+%28Wicked+Pictures%29.mp4',
+                      'genre': 'Full'}
+                     ],
+            'Teens Love Huge Cocks 12': [{'name': 'Mirror #1',
                       'thumb': 'https://movie4k.org/thumbs/cover-7646955-Teens-Love-Huge-Cocks-12-movie4k-film.jpg',
                       'video': 'https://1fiagel.oloadcdn.net/dl/l/p-y5MF9N7G5wZuG2/zGdeiEyQpmc/Teens+Love+Huge+Cocks+12.mp4',
                       'genre': 'Teen'}
