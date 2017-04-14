@@ -69,6 +69,36 @@ VIDEOS = {'Private Specials 162': [{'name': 'Mirror #1',
                       'video': 'https://1fgm902.oloadcdn.net/dl/l/T7CzbmZP0tRLjG8H/ZRq1cfpyGAk/The+Key+%28Wicked+Pictures%29.mp4',
                       'genre': 'Full'}
                      ],
+          'New to the Game #10': [{'name': 'Mirror #1',
+                      'thumb': 'http://img162.imagetwist.com/th/14683/k4ivvzscgp4m.jpg',
+                      'video': 'https://1fgqftq.oloadcdn.net/dl/l/KSExJemKaat5rh9h/rZ_Is9t3org/New+To+The+Game+10.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Sperm Sponges #2': [{'name': 'Mirror #1',
+                      'thumb': 'http://img162.imagetwist.com/th/14683/sspng9v8n40p.jpg',
+                      'video': 'https://1fgm8kl.oloadcdn.net/dl/l/C4ipKnsx0XzIo4un/rUtYxEgh7co/Sperm+Sponges+2.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Teen Brazil #2': [{'name': 'Mirror #1',
+                      'thumb': 'http://img162.imagetwist.com/th/14634/6lc84v7kpvg1.jpg',
+                      'video': 'https://1fhjlp2.oloadcdn.net/dl/l/z3OWGBuvF1RYcvuL/5-NzaL-9fWQ/Teen+Brazil+2mp4',
+                      'genre': 'Full'}
+                     ],
+          'Teen Brazil #3': [{'name': 'Openload.co',
+                      'thumb': 'http://img116.imagetwist.com/th/14634/iphq5kcij4be.jpg',
+                      'video': 'https://openload.co/embed/HtHkMpfbFcQ/Teen_Brazil_3.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Tempt Me': [{'name': 'Mirror #1',
+                      'thumb': 'http://img66.imagetwist.com/th/14634/zjf07ic1ednx.jpg',
+                      'video': 'https://oqt1p2.oloadcdn.net/dl/l/WqcTlKUBGAI-lWx2/pcfI_drEvUA/Tempt+Me.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Virgins of the Screen #5': [{'name': 'Openload.co',
+                      'thumb': 'http://img28.imagetwist.com/th/14634/ke31hcwf0gu7.jpg',
+                      'video': 'https://openload.co/embed/bMfVs5o1AQU/Virgins_Of_The_Screen_5.mp4',
+                      'genre': 'Full'}
+                     ],
             'Teens Love Huge Cocks 12': [{'name': 'Mirror #1',
                       'thumb': 'https://movie4k.org/thumbs/cover-7646955-Teens-Love-Huge-Cocks-12-movie4k-film.jpg',
                       'video': 'https://1fiagel.oloadcdn.net/dl/l/p-y5MF9N7G5wZuG2/zGdeiEyQpmc/Teens+Love+Huge+Cocks+12.mp4',
