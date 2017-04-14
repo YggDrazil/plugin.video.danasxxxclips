@@ -24,6 +24,36 @@ VIDEOS = {'Private Specials 162': [{'name': 'Mirror #1',
                        'video': 'https://oql957.oloadcdn.net/dl/l/LGd5lz1eAFAoi6My/KdlK_vxZvls/Private+Specials+162+Hot+Hitchhikers.mp4',
                        'genre': 'Full'}
                       ],
+          'Watch Me Eat My Cream Pie #4': [{'name': 'Mirror #1',
+                      'thumb': 'http://img116.imagetwist.com/th/14634/rqbwvxwc7v83.jpg',
+                      'video': 'https://pgli2x.oloadcdn.net/dl/l/DYtqbtGvJFd6UBuz/hd9sQEh1Kwk/Watch+Me+Eat+My+Creampie+4.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Wet Inc. #2': [{'name': 'Mirror #1',
+                      'thumb': 'http://img28.imagetwist.com/th/14634/tfwg6qjiaice.jpg#',
+                      'video': 'https://1fgqfu3.oloadcdn.net/dl/l/tk33e9Urs2suj31Q/6oxqr4HrzWg/Wet+Inc+2.mp4',
+                      'genre': 'Full'}
+                     ],
+            'Whats Crackin': [{'name': 'Mirror #1',
+                      'thumb': 'http://img162.imagetwist.com/th/14634/oljqehnb1lg4.jpg',
+                      'video': 'https://1fhjm2s.oloadcdn.net/dl/l/87QGibXudQljTNIx/Ny1OXa0sjqA/Whats+Crackin.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Marilyn - Kleine Spalten süße Lippen': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/H0OO/Marilyn-Kleine_Spalten_suesse_Lippen.jpg',
+                      'video': 'https://ph2dqs.oloadcdn.net/dl/l/VPIlZ66LjcJgVc5Y/M_XQqKxipvo/MarilynKleineSpaltensuesseLippen.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Schmutzige Liebhaber': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/SHPA/Schmutzige_Liebhaber.png',
+                      'video': 'https://ph2dqt.oloadcdn.net/dl/l/zgn_lHQaKVmogqvL/KcjhDbOUlNA/Schmutzige+Liebhaber.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Meet my Ass #9': [{'name': 'Mirror #1',
+                      'thumb': 'http://img66.imagetwist.com/th/14658/o41bbbtbfzes.jpg',
+                      'video': 'https://1fiag16.oloadcdn.net/dl/l/oq-DQrGwhnvYzykT/ioa4KmKEW4w/Meat+My+Ass+9+%28NEWPORT+DISTRIBUTING.mp4',
+                      'genre': 'Full'}
+                     ],
           'Little Girls and Cream Pies': [{'name': 'Mirror #1',
                       'thumb': 'https://s1.imgcloud.pw/2017/03/23/297475.jpg',
                       'video': 'https://1fiag0c.oloadcdn.net/dl/l/dBhqsvsqjfB7aWQ1/6pbAv0JWu-g/Litte+Girls+And+Cream+Pies+%28DIRTY+LAUNDRY+PICTURES.mp4',
