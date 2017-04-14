@@ -19,18 +19,14 @@ _handle = int(sys.argv[1])
 # Here we use a fixed set of properties simply for demonstrating purposes
 # In a "real life" plugin you will need to get info and links to video files/streams
 # from some web-site or online service.
-VIDEOS = {'Animals': [{'name': 'Crab',
-                       'thumb': 'http://www.vidsplay.com/vids/crab.jpg',
-                       'video': 'http://www.vidsplay.com/vids/crab.mp4',
-                       'genre': 'Animals'},
-                      {'name': 'Alligator',
-                       'thumb': 'http://www.vidsplay.com/vids/alligator.jpg',
-                       'video': 'http://www.vidsplay.com/vids/alligator.mp4',
-                       'genre': 'Animals'},
-                      {'name': 'Turtle',
-                       'thumb': 'http://www.vidsplay.com/vids/turtle.jpg',
-                       'video': 'http://www.vidsplay.com/vids/turtle.mp4',
-                       'genre': 'Animals'}
+VIDEOS = {'A Young Girls Desires #5': [{'name': 'Teil 1',
+                       'thumb': 'https://movie4k.org/thumbs/cover-6228425-A-Young-Girls-Desires-5-movie4k-film.jpg',
+                       'video': 'streamcloud.eu/mhjo5uyx0tmt/A_Young_Girls_Desires_5_cd1.mp4',
+                       'genre': 'Full'},
+                      {'name': 'Teil 2',
+                       'thumb': 'https://movie4k.org/thumbs/cover-6228425-A-Young-Girls-Desires-5-movie4k-film.jpg',
+                       'video': 'streamcloud.eu/83f1dgpieq2f/A_Young_Girls_Desires_5_cd2.mp4',
+                       'genre': 'Full'}
                       ],
             'Cars': [{'name': 'Postal Truck',
                       'thumb': 'http://www.vidsplay.com/vids/us_postal.jpg',
