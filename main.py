@@ -21,38 +21,32 @@ _handle = int(sys.argv[1])
 # from some web-site or online service.
 VIDEOS = {'A Young Girls Desires #5': [{'name': 'Teil 1',
                        'thumb': 'https://movie4k.org/thumbs/cover-6228425-A-Young-Girls-Desires-5-movie4k-film.jpg',
-                       'video': 'streamcloud.eu/mhjo5uyx0tmt/A_Young_Girls_Desires_5_cd1.mp4',
+                       'video': 'http://streamcloud.eu/mhjo5uyx0tmt/A_Young_Girls_Desires_5_cd1.mp4',
                        'genre': 'Full'},
                       {'name': 'Teil 2',
                        'thumb': 'https://movie4k.org/thumbs/cover-6228425-A-Young-Girls-Desires-5-movie4k-film.jpg',
                        'video': 'streamcloud.eu/83f1dgpieq2f/A_Young_Girls_Desires_5_cd2.mp4',
                        'genre': 'Full'}
                       ],
-            'Cars': [{'name': 'Postal Truck',
-                      'thumb': 'http://www.vidsplay.com/vids/us_postal.jpg',
-                      'video': 'http://www.vidsplay.com/vids/us_postal.mp4',
-                      'genre': 'Cars'},
-                     {'name': 'Traffic',
-                      'thumb': 'http://www.vidsplay.com/vids/traffic1.jpg',
-                      'video': 'http://www.vidsplay.com/vids/traffic1.avi',
-                      'genre': 'Cars'},
-                     {'name': 'Traffic Arrows',
-                      'thumb': 'http://www.vidsplay.com/vids/traffic_arrows.jpg',
-                      'video': 'http://www.vidsplay.com/vids/traffic_arrows.mp4',
-                      'genre': 'Cars'}
+          'Lia- Louise Keine Angst vor grossen Schwаnzen': [{'name': 'Teil 1',
+                      'thumb': 'https://movie4k.org/thumbs/cover-8337899-Lia-Louise-Keine-Angst-vor-grossen-Schw-nzen-movie4k-film.jpg',
+                      'video': 'http://95.211.210.75:8777/dsipa7x4m7uzcg3h5fdsvdns24oialfbhxstd65ticypzsk5ytj5lz7vr64a/v.mp4',
+                      'genre': 'Asian'}
                      ],
-            'Food': [{'name': 'Chicken',
-                      'thumb': 'http://www.vidsplay.com/vids/chicken.jpg',
-                      'video': 'http://www.vidsplay.com/vids/bbqchicken.mp4',
-                      'genre': 'Food'},
-                     {'name': 'Hamburger',
-                      'thumb': 'http://www.vidsplay.com/vids/hamburger.jpg',
-                      'video': 'http://www.vidsplay.com/vids/hamburger.mp4',
-                      'genre': 'Food'},
-                     {'name': 'Pizza',
-                      'thumb': 'http://www.vidsplay.com/vids/pizza.jpg',
-                      'video': 'http://www.vidsplay.com/vids/pizza.mp4',
-                      'genre': 'Food'}
+          'Aufgepasst Verdammt Schwanger': [{'name': 'Teil 1',
+                      'thumb': 'https://movie4k.org/thumbs/cover-5960304-Aufgepasst-Verdammt-Schwanger-movie4k-film.jpg',
+                      'video': 'http://streamcloud.eu/sjajnai9rc2x/Aufgepasst_Verdammt_Schwanger.wmv',
+                      'genre': 'Asian'}
+                     ],
+            'Asian Bombshells #2': [{'name': 'Teil 1',
+                      'thumb': 'https://movie4k.org/thumbs/cover-6728083-Asian-Bombshells-2-movie4k-film.jpg',
+                      'video': 'http://streamcloud.eu/zq1oxqqjip23/Asian.Bombshells.2.XXX.DVDRip.mp4',
+                      'genre': 'Asian'}
+                     ],
+            'Teens Love Huge Cocks 12': [{'name': 'Teil 1',
+                      'thumb': 'https://movie4k.org/thumbs/cover-7646955-Teens-Love-Huge-Cocks-12-movie4k-film.jpg',
+                      'video': 'https://1fiagel.oloadcdn.net/dl/l/p-y5MF9N7G5wZuG2/zGdeiEyQpmc/Teens+Love+Huge+Cocks+12.mp4',
+                      'genre': 'Teen'}
                      ]}
 
 
