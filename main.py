@@ -24,6 +24,66 @@ VIDEOS = {'Private Specials 162': [{'name': 'Mirror #1',
                        'video': 'https://oql957.oloadcdn.net/dl/l/LGd5lz1eAFAoi6My/KdlK_vxZvls/Private+Specials+162+Hot+Hitchhikers.mp4',
                        'genre': 'Full'}
                       ],
+           'Au Pair Teenies': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/2H4Q/Au_Pair_Teenies_-_Neugierig_Auf_Geile_S%C3%BCnden.jpg',
+                      'video': 'https://openload.co/embed/vTS4rQ-GzoU/Au.Pair.Teenies.Neugierig.Auf.Geile.Sunden.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Arena Extreme #61': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/S9MN/Arena_Extrem_61_-_Sperma_Macchiato.jpg',
+                      'video': 'https://openload.co/embed/dprZBv8qdd4/Arena.Extrem.61.Sperma.Macchiato.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+            'Gangstas Paradise': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/ZO5W/Gangsta´s_Paradise.jpg',
+                      'video': 'https://openload.co/embed/XXjk3m09rN8/Gangstas.Paradise.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Ich bin Jung und brauche das Geld #47': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/N4DE/Ich_Bin_Jung_Und_Brauche_Das_Geld_47.jpg',
+                      'video': 'https://1fhjloz.oloadcdn.net/dl/l/NQ6F4ZH_5iN8jRit/bMfVs5o1AQU/Virgins+Of+The+Screen+5.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Schleich Connection': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/AJ0H/Scheich_Connection_-_Gebohrt_nach_Fotzensaft.jpg',
+                      'video': 'https://openload.co/embed/OeFMxfCoFak/Scheich_Connection_-_Gebohrt_nach_Fotzensaft.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Unter Deutschen Daechern': [{'name': 'Mirror #1',
+                      'thumb': 'https://picload.org/image/rdcraidp/2.jpg',
+                      'video': 'https://openload.co/embed/1Tdabm4k5lo/Deutscher_Originalton_Partnertausch.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Wiener Glut: Schubertgasse #3': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/VJCA/Wiener_Glut_Schubertgasse_Sex,_Teil_3.jpg',
+                      'video': 'https://openload.co/embed/w3fKIyIyAdQ/Wiener_Glut_3.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Freche Goeren #8': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/UBIV/Freche_G%C3%B6ren_8.jpg',
+                      'video': 'https://openload.co/embed/I3vz21JV_O0/Freche_Goeren_8.mp4',
+                      'genre': 'Full'}
+                     ],
+            'Blutjunge Spermafresser': [{'name': 'Mirror #1',
+                      'thumb': 'http://img162.imagetwist.com/th/14634/oljqehnb1lg4.jpg',
+                      'video': 'https://openload.co/embed/8QpQ8x750nk/Blutjunge_Spermafresser.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Achtzehneinhalb #18': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/8USE/Achtzehneinhalb_18.jpg',
+                      'video': 'https://openload.co/embed/5d2O-hPUECw/Achtzehneinhalb_18.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Pariser Goeren #1': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/OFBS/Pariser_G%C3%B6ren_1_-_Am_liebsten_in_den_Arsch,_Monsieur.jpg',
+                      'video': 'https://openload.co/embed/jziCOL8FvE0/Pariser_G%C3%B6ren_1_-_Am_liebsten_in_den_Arsch%2C_Monsieur.avi.mp4',
+                      'genre': 'Full'}
+                     ],
+          'Die Mega Titten': [{'name': 'Mirror #1',
+                      'thumb': 'http://imagez.host/di/V0RI/Die_Mega_Titten.jpg',
+                      'video': 'https://openload.co/embed/DbT7zibDgaE/Die_Megga_Titten.avi.mp4',
+                      'genre': 'Full'}
+                     ],
           'Watch Me Eat My Cream Pie #4': [{'name': 'Mirror #1',
                       'thumb': 'http://img116.imagetwist.com/th/14634/rqbwvxwc7v83.jpg',
                       'video': 'https://pgli2x.oloadcdn.net/dl/l/DYtqbtGvJFd6UBuz/hd9sQEh1Kwk/Watch+Me+Eat+My+Creampie+4.mp4',
@@ -39,7 +99,7 @@ VIDEOS = {'Private Specials 162': [{'name': 'Mirror #1',
                       'video': 'https://1fhjm2s.oloadcdn.net/dl/l/87QGibXudQljTNIx/Ny1OXa0sjqA/Whats+Crackin.mp4',
                       'genre': 'Full'}
                      ],
-          'Marilyn - Kleine Spalten süße Lippen': [{'name': 'Mirror #1',
+          'Marilyn - Kleine Spalten suesse Lippen': [{'name': 'Mirror #1',
                       'thumb': 'http://imagez.host/di/H0OO/Marilyn-Kleine_Spalten_suesse_Lippen.jpg',
                       'video': 'https://ph2dqs.oloadcdn.net/dl/l/VPIlZ66LjcJgVc5Y/M_XQqKxipvo/MarilynKleineSpaltensuesseLippen.avi.mp4',
                       'genre': 'Full'}
