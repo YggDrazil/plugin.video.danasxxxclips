@@ -184,9 +184,39 @@ VIDEOS = {'Private Specials 162': [{'name': 'Mirror #1',
                       'video': 'https://oqt1p2.oloadcdn.net/dl/l/WqcTlKUBGAI-lWx2/pcfI_drEvUA/Tempt+Me.mp4',
                       'genre': 'Full'}
                      ],
-          'Virgins of the Screen #5': [{'name': 'Openload.co',
-                      'thumb': 'http://img28.imagetwist.com/th/14634/ke31hcwf0gu7.jpg',
-                      'video': 'https://openload.co/embed/bMfVs5o1AQU/Virgins_Of_The_Screen_5.mp4',
+          'Ana Foxxx Digital Desire': [{'name': 'Openload.co',
+                      'thumb': 'http://hwcdn.ddstatic.com/bp-content/tour/tour_photos/2017_03_16/11874/ana_foxxx_11874_13-idx-800-jpg.jpg',
+                      'video': 'https://ph2dqh.oloadcdn.net/dl/l/Lm6WrHDStzN-M_5O/V-Gj9UxhVe8/nfretyseryeryry_2.mp4',
+                      'genre': 'Full'}
+                     ],
+              'New Climax #68': [{'name': 'Mirror #1',
+                      'thumb': 'http://picload.org/image/wirdlrp/newclimax68.jpg',
+                      'video': 'https://oqt1pp.oloadcdn.net/dl/l/mfx_xERKOfFt99W9/zTkqanQ4hQs/New+Climax+68.mp4',
+                      'genre': 'Full'}
+                     ],
+          'New Climax #37': [{'name': 'Mirror #1',
+                      'thumb': 'http://picload.org/image/wdlcwid/newclimax37.jpg',
+                      'video': 'https://ph2dw1.oloadcdn.net/dl/l/aRAjyMsowdWHDoYs/jjlTDEIwwkU/New+Climax+37.mp4',
+                      'genre': 'Full'}
+                     ],
+            'New Climax #28': [{'name': 'Mirror #1',
+                      'thumb': 'https://picload.org/image/rdcdpowr/newclimax28hotsexwithbeautiful.jpg',
+                      'video': 'https://oqt1oq.oloadcdn.net/dl/l/dJCHOPdcHz3T8tEY/uHaO2iveFAY/New+Climax+28+Hot+Sex+with+Beautiful+Girls.mp4',
+                      'genre': 'Full'}
+                     ],
+          'XXX Euro Trip #6': [{'name': 'Mirror #1',
+                      'thumb': 'http://picload.org/image/poccooa/dvd_3031263d6.jpg',
+                      'video': 'https://1fgqft5.oloadcdn.net/dl/l/d8eDxonv1q7O_3IU/fW6tHFsI5-s/XXX+Euro+Trip+6.mp4',
+                      'genre': 'Full'}
+                     ],
+          'My Sexy Little Sister': [{'name': 'Mirror #1',
+                      'thumb': 'https://picload.org/image/rdcgacdl/2.jpg',
+                      'video': 'https://1fhjlut.oloadcdn.net/dl/l/j0M5UUA3s6dAWi2S/ZaYIAzQii-s/My+Sexy+Little+Sister.mp4',
+                      'genre': 'Full'}
+                     ],
+          'My Horny Teen GF #2': [{'name': 'Mirror #1',
+                      'thumb': 'https://picload.org/image/rdcgarww/2.jpg',
+                      'video': 'https://1fhjlul.oloadcdn.net/dl/l/k3SVOkCoQGPu6FpN/jE1NchWB-9M/+My+Horny+Teen+GF+2.mp4',
                       'genre': 'Full'}
                      ],
             'Teens Love Huge Cocks 12': [{'name': 'Mirror #1',
